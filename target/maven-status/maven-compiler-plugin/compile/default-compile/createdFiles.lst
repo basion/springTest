@@ -1,0 +1,5 @@
+com\hjl\springTest\service\impl\UserServiceImpl.class
+com\hjl\springTest\dao\UserMapper.class
+com\hjl\springTest\controller\UserController.class
+com\hjl\springTest\bean\User.class
+com\hjl\springTest\service\IUserService.class
